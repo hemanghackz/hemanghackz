@@ -1,21 +1,31 @@
-🌱 I’m currently learning cybersecurity.
-👯 I’m looking to collaborate on Security Hackathons.
-🤝 I’m looking for help with network-security.
-💬 Ask me about Networking,Network-security,Linux.
-👨‍💻 I love to attend security conferences.
-📄 I am interested in Cybersecurity, and networking has kept me excited since I was in 8th grade. I consider myself good at Linux, but i do functional Mysql & python.
-📫 How to reach me Linkedln -@hemangrathore 
-📝 I love to volunteering myself at various events. I'am core team member and volunteer at "thehackersmeetup".
-⚡ Fun fact : I love walking and listen to songs while walking.
+<h1 align="center">Hi 👋, I'm Hemang rathore</h1> <br>
 
-<h1 align="center">Hi 👋, I'm Hemang rathore</h1>
+🌱 I’m currently learning cybersecurity.<br>
+
+👯 I’m looking to collaborate on Security Hackathons.<br>
+
+🤝 I’m looking for help with network-security.<br>
+
+💬 Ask me about Networking,Network-security,Linux.<br>
+
+👨‍💻 I love to attend security conferences.<br>
+
+📄 I am interested in Cybersecurity, and networking has kept me excited since I was in 8th grade. I consider myself good at Linux, but i do functional Mysql & python.<br>
+
+📝 I love to volunteering myself at various events. I'am core team member and volunteer at "thehackersmeetup".<br>
+
+⚡ Fun fact : I love walking and listen to songs while walking.<br>
+
+📫 How to reach me Linkedln <a href="https://www.linkedin.com/in/hemang-rathore-98b74a263">-@hemangrathore </a> <br>
+
+
 <h3 align="center">Welcome to my GitHub profile 👋. I'm currently learning Cybersecurity. My academic journey has been centered around computers & cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanghackz&label=Profile%20views&color=0e75b6&style=flat" alt="hemanghackz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hemangrathore" target="blank"><img src="https://img.shields.io/twitter/follow/hemangrathore?logo=twitter&style=for-the-badge" alt="hemangrathore" /></a> </p>
 
-- 📫 How to reach me Linkedln -@hemangrathore [https://www.linkedin.com/in/hemang-rathore-98b74a263](https://www.linkedin.com/in/hemang-rathore-98b74a263)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
